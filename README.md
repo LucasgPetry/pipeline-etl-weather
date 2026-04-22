@@ -146,4 +146,7 @@ Este projeto está sob a licença MIT.
 ## 👨‍💻 Autor
 
 Lucas Petry  
-https://github.com/LucasgPetry
+https://github.com/LucasgPetry 
+
+Créditos destinados a: @vbluuiza  
+Esse projeto foi realizado como forma de estudo com fonte: https://youtu.be/I8qPqbXQBDU?si=_CYXG2YNU-A9C9BC
