@@ -137,12 +137,6 @@ docker compose up -d
 
 ---
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT.
-
----
-
 ## 👨‍💻 Autor
 
 Lucas Petry  
